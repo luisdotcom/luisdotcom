@@ -1,13 +1,13 @@
 <h2> Luis E. Gómez Mena - @luisdotcom </h2>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luisdotcom) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_luisdotcom)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luisdotcom)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/luisdotcom)
  
 <b>Education: </b>
 <p>:mortar_board: Ing. en Software y Sistemas Computacionales.</p>
 <p>:mortar_board: MSc. en Tecnologías de la Información y Comunicación.</p>
- 
+<p>:mortar_board: Diplomado en E-commerce: Creación y gestión.</p>
+
 <br/>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=luisdotcom&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats&border_color=263238" height="160px" />
@@ -24,7 +24,7 @@
    <img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"> 
  
    <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> 
-   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+   <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 
    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
